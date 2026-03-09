@@ -1,4 +1,4 @@
-# CNC Programming Mastery Portal
+# CNC Programming Learning Portal
 
 An interactive, self-paced learning portal for aspiring CNC programmers. Built as a single-page HTML application and hosted via GitHub Pages — no backend, no dependencies, no install required.
 
