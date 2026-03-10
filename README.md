@@ -2,6 +2,8 @@
 
 An interactive, self-paced learning portal for aspiring CNC programmers. Built as a single-page HTML application and hosted via GitHub Pages — no backend, no dependencies, no install required.
 
+Live Demo: https://rigarcia07.github.io/web-cnc/
+
 ---
 
 ## What It Is
